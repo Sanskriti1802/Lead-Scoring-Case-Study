@@ -4,3 +4,4 @@ Business Goal: Now, although X Education gets a lot of leads, its lead conversio
 Conclusion: The variables that can be considered are : Do Not Email,  Total Time Spent on Website, Lead Source_Olark Chat, Lead Source_Others, Lead Source_Reference, Lead Source_Welingak Website, Last Activity_Email Opened, Last Activity_Olark Chat Conversation, Last Activity_Others, Last Activity_SMS Sent, Specialization_Hospitality Management, Specialization_Others, Current_occupation_Other, Current_occupation_Student, Current_occupation_Unemployed
 Leads with score of more than 28 have more than 87% chances of conversion and can be targeted by the X Education. Anyone having a score of >= 28 can be considered a Hot Lead.
 Evaluation of our final model at our final cutoff of 0.345 on test set:  Accuracy: 80.05%, Sensitivity/Recall: 79.73% = 80%, Specificity: 81%,  Precision: 73.3%
+*Since the accuracy comes out to be 80.05% which surpasses the threshold by the CEO*
